@@ -1,2 +1,2 @@
 # iglu 
-### iglu is a utility to conveniently access popular image datasets from within python.
+### iglu is a utility for accessing popular image datasets from within python.
