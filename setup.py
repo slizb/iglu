@@ -2,14 +2,14 @@
 from __future__ import absolute_import
 from setuptools import setup
 
-setup(name='snape',
-      version='0.2',
-      description='Snape Realistic Synthetic Dataset Tool',
-      url='https://github.com/mbernico/snape',
-      author='Mike Bernico',
-      author_email='mike.bernico@gmail.com',
+setup(name='iglu',
+      version='0.1',
+      description='iglu: an Image LookUp library',
+      url='https://github.com/slizb/iglu',
+      author='Bradley Sliz',
+      author_email='bradsliz@gmail.com',
       license='Apache 2.0',
-      packages=['snape'],
+      packages=['iglu'],
       install_requires=['sklearn',
                         'pandas',
                         'numpy',
