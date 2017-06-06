@@ -12,7 +12,7 @@ before_install: source build_tools/travis/before_install.sh
 env:
   global:
     # Directory where tests are run from
-    - TEST_DIR=/tmp/snape
+    - TEST_DIR=/tmp/iglu
     - OMP_NUM_THREADS=4
     - OPENBLAS_NUM_THREADS=4
   matrix:
